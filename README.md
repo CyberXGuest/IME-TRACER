@@ -2,7 +2,9 @@
 FOR EDUCATIONAL PURPOSES
 # Install Python if not already installed
 git clone https://github.com/CyberXGuest/IME-TRACER.git
+
 sudo apt update
+
 sudo apt install python3 python3-pip git
 
 # Install dependencies
